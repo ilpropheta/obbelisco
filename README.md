@@ -104,7 +104,7 @@ Well, mostly because we don't really know if we can publish it...basically, we d
   <figcaption>Velocità Massima cameo at Eurcine</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/inail.png">

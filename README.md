@@ -36,70 +36,70 @@ Well, mostly because we don't really know if we can publish it...basically, we d
   <figcaption>Palazzo della Cività Italiana (Colosseo Quadrato)<figcaption>
 </figure>
     
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/congressi.jpg">
   <figcaption>Driving around Palazzo dei Congressi</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/eur-spa.png">
   <figcaption>Eur Spa</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/ss-pp.jpg">
   <figcaption>At the foot of Basilica dei santi Pietro e Paolo</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/terrazze.png">
   <figcaption>Having some fun on Satuday night</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/ostia.png">
   <figcaption>Ostia workshop entrace</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/metro-palasport.png">
   <figcaption>When the car is not working...</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/eni.png">
   <figcaption>Eni</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/ip.png">
   <figcaption>Refuelling at IP</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/others.png">
   <figcaption>Having some chat with other people at *Obbelisco*</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/eurcine.png">
@@ -113,21 +113,21 @@ Well, mostly because we don't really know if we can publish it...basically, we d
   <figcaption>INAIL building</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/ina.png">
   <figcaption>via Cristoforo Colombo</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/mission-1.png">
   <figcaption>Ready for the mission?</figcaption>
 </figure>
 
-</br></br>
+<br/><br/>
 
 <figure>
 <img src="pics/art-shot.jpg">

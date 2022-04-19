@@ -13,7 +13,7 @@ The game is set in Rome and specifically in the heart of [EUR](https://it.wikipe
 -  the player can drive everywhere in the area, including some special places like *EUR Palasport* underground entrance, *Formula E track*, and inside some buildings
 -  two vehicles inspired by the movie:
    - *Delta Integrale*
-   - *Ford Sierra Cosworth* (playable in two fashions through the game: *damaged* ("Come l'alimenti, co' l'aflebo?") and *cleaned up* ("guarda un po' che robbetta")
+   - *Ford Sierra Cosworth*, playable in two fashions through the game: *damaged* ("Come l'alimenti, co' l'aflebo?") and *cleaned up* ("guarda un po' che robbetta")
 -  *missions*: some of the key moments of the movie have been made playable as missions like:
    - *objects collection*: the player has to find and pick up some objects (the map gives some hints)
    - *race against time*: the player has to complete a race lap within a certain time
@@ -27,7 +27,7 @@ The game is set in Rome and specifically in the heart of [EUR](https://it.wikipe
 
 ## Why the game is not public
 
-Well, mostly because we don't really know if we can publish it...basically, we don't want to infringe any copyright issues (the movie, some textures taken from Google images, etc). However, the game is totally non-profit.
+Well, mostly because we don't really know if we can publish it...basically, we don't want to infringe any copyright issues (the movie, some textures taken from Google images, etc). Yet, the game is intended as a non-profit activity.
 
 ## Some shots
 
@@ -59,7 +59,7 @@ Well, mostly because we don't really know if we can publish it...basically, we d
 
 <figure>
 <img src="pics/terrazze.png">
-  <figcaption>Having some fun on Satuday night</figcaption>
+  <figcaption>Having some fun on Saturday night</figcaption>
 </figure>
 
 <br/><br/>

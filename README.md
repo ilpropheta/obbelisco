@@ -31,10 +31,8 @@ Well, mostly because we don't really know if we can publish it...basically, we d
 
 ## Some shots
 
-<figure>
 <img src="pics/quadrato.png">
   <figcaption>Palazzo della Cività Italiana (Colosseo Quadrato)<figcaption>
-</figure>
     
 <br/><br/>
 

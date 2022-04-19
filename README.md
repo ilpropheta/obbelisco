@@ -3,7 +3,7 @@
 **Obbelisco** (roman malapropism of the word "obelisco" that means "obelisk" in English) is a car game developed by Marco Arena and a friend of him (who wants to stay anonymous) with [Unity3D](https://unity.com/). The game is inspired by the italian movie [*Velocità Massima*](https://it.wikipedia.org/wiki/Velocit%C3%A0_massima_(film)).
 
 <center>
-<img src="/pics/home-screen.gif">
+<img src="pics/home-screen.gif">
 </center>
 
 The game is set in Rome and specifically in the heart of [EUR](https://it.wikipedia.org/wiki/Europa_(Roma)), around *Marconi's Obelisk* in *piazza Marconi*. The neighborhood has been very roughly reconstructed with Blender, Google Maps, Google Images, and perseverance.
@@ -32,104 +32,104 @@ Well, mostly because we don't really know if we can publish it...basically, we d
 ## Some shots
 
 <figure>
-<img src="/pics/quadrato.png">
+<img src="pics/quadrato.png">
   <figcaption>Palazzo della Cività Italiana (Colosseo Quadrato)<figcaption>
 </figure>
     
 </br></br>
 
 <figure>
-<img src="/pics/congressi.jpg">
-  <figcaption>Driving around *Palazzo dei Congressi*</figcaption>
+<img src="pics/congressi.jpg">
+  <figcaption>Driving around Palazzo dei Congressi</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/eur-spa.png">
+<img src="pics/eur-spa.png">
   <figcaption>Eur Spa</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/ss-pp.jpg">
-  <figcaption>At the foot of *Basilica dei santi Pietro e Paolo*</figcaption>
+<img src="pics/ss-pp.jpg">
+  <figcaption>At the foot of Basilica dei santi Pietro e Paolo</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/terrazze.png">
+<img src="pics/terrazze.png">
   <figcaption>Having some fun on Satuday night</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/ostia.png">
+<img src="pics/ostia.png">
   <figcaption>Ostia workshop entrace</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/metro-palasport.png">
+<img src="pics/metro-palasport.png">
   <figcaption>When the car is not working...</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/eni.png">
+<img src="pics/eni.png">
   <figcaption>Eni</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/ip.png">
+<img src="pics/ip.png">
   <figcaption>Refuelling at IP</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/others.png">
+<img src="pics/others.png">
   <figcaption>Having some chat with other people at *Obbelisco*</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/eurcine.png">
-  <figcaption>*Velocità Massima* cameo at Eurcine</figcaption>
+<img src="pics/eurcine.png">
+  <figcaption>Velocità Massima cameo at Eurcine</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/inail.png">
+<img src="pics/inail.png">
   <figcaption>INAIL building</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/ina.png">
+<img src="pics/ina.png">
   <figcaption>via Cristoforo Colombo</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/mission-1.png">
+<img src="pics/mission-1.png">
   <figcaption>Ready for the mission?</figcaption>
 </figure>
 
 </br></br>
 
 <figure>
-<img src="/pics/art-shot.jpg">
+<img src="pics/art-shot.jpg">
   <figcaption>Having fun with some filters</figcaption>
 </figure>
